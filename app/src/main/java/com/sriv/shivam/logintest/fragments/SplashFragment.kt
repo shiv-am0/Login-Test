@@ -25,6 +25,7 @@ class SplashFragment : Fragment() {
         // Inflate the layout for this fragment
         binding = FragmentSplashBinding.inflate(layoutInflater)
 
+        // Delay the action by 2 sec to let lottie file animate properly.
         Handler().postDelayed(Runnable() {
             findNavController().navigate(R.id.action_splashFragment_to_signinFragment)
         }, 2000)

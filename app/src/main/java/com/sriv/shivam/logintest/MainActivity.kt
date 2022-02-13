@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     // Function to invoke Dialog Box for logging out
-    fun showDialog() {
+    private fun showDialog() {
         MaterialAlertDialogBuilder(this)
             .setTitle("Logout")
             .setMessage("Are you sure you want to logout?")
