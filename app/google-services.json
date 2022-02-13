@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71711600545",
+    "firebase_url": "https://occukeeper-default-rtdb.firebaseio.com",
+    "project_id": "occukeeper",
+    "storage_bucket": "occukeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71711600545:android:d3034a62e125b30dde65e0",
+        "android_client_info": {
+          "package_name": "com.sriv.shivam.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71711600545-upni59crjd8h94i09e792djrpsh93bgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sriv.shivam.logintest",
+            "certificate_hash": "b3fbebf968c669d1ad5e7183c03762dc32f0e62b"
+          }
+        },
+        {
+          "client_id": "71711600545-7cs0g17odei6ngiuql0qvjtaqhhg1166.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpIBrI5MKfIGRA6C00P4WZPxF1IXBuvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71711600545-7cs0g17odei6ngiuql0qvjtaqhhg1166.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
